@@ -16,8 +16,11 @@ Creates a rebar container element from a list of curves and a series of rebar pr
 
 #### Rebar Property Dropdown Nodes
 Select Rebar Style - Select available Rebar Styles from the Revit document
+
 Select Rebar Hook Type - Select available Rebar Hook Types from the Revit document
+
 Select Rebar Hook Orientation - Select available Rebar Hook Orientations from the Revit document
+
 Select Rebar Bar Type - Select available Rebar Bar Types from the Revit document
 
 ### Nodes for Curve Generation
